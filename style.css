@@ -1,0 +1,67 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#container{
+    width: 320px;
+    height: 470px;
+    background-color: rgb(63, 31, 9);
+    margin:auto;
+    position: relative;
+    top: 20px;
+}
+
+input{
+    text-align: right;
+    margin: 10px,20px;
+    width: 310px;
+    height: 20px;
+    padding-top: 20px;
+    font-size: 30px;
+
+}
+
+.clrbtn{
+    background-color: cornsilk;
+    color: black;
+    border: 2px, solid;
+}
+
+
+
+.clrbtn{
+    width: 250px;
+    height: 50px;
+    margin: 20px;
+    border-radius: 30%;
+    border-width: 0;
+    font-weight: bold;
+    outline: 0;
+    }
+
+    .clrbtn:hover{
+        background-color: black;
+    color: cornsilk;
+    }
+
+.button{
+    width: 50px;
+    height: 50px;
+    margin: 15px;
+    float: left;
+    border-radius: 40%;
+    border-width: 0;
+    font-weight: bold;
+    outline: 0;
+}
+
+.button{
+    background-color: cornsilk;
+    color: black;
+    border: 2px, solid;
+}
+.button:hover{
+    background-color: black;
+    color: cornsilk;
+}
